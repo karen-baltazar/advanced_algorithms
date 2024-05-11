@@ -1,0 +1,5 @@
+Node 0 <-> Color 1
+Node 1 <-> Color 1
+Node 2 <-> Color 2
+Node 3 <-> Color 3
+Node 4 <-> Color 2

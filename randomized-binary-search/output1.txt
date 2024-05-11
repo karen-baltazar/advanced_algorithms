@@ -1,0 +1,6 @@
+number = 1930 using binary search = 8, using randomize binary search = 17
+number = 414 using binary search = 8, using randomize binary search = 7
+number = 1460 using binary search = 8, using randomize binary search = 12
+number = 1462 using binary search = 7, using randomize binary search = 11
+number = 1438 using binary search = 6, using randomize binary search = 9
+number = 1749 using binary search = 3, using randomize binary search = 12

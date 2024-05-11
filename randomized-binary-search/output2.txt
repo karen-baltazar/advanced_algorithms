@@ -1,0 +1,5 @@
+number = 595 using binary search = 6, using randomize binary search = 14
+number = 144 using binary search = 9, using randomize binary search = 12
+number = 667 using binary search = 8, using randomize binary search = 11
+number = 1795 using binary search = 8, using randomize binary search = 11
+number = 301 using binary search = 8, using randomize binary search = 9
